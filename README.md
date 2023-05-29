@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Furtado 👋
 
 - 🔭 Hoje trabalho com front/back - end
-- 🌱 Estundo JAVE E C-Sharp
+- 🌱 Estundo JAVA E C-Sharp
 - 📫 Contata - me no email: guilhermefurttado78@gmail.com
 - 😄 Pronouns: ele/dele
 
